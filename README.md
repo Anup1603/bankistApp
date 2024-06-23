@@ -1,7 +1,7 @@
 # bankistApp
 
-Click Here for Live Demo https://bankist-app-anup.netlify.app/
+Click Here for a Live Demo https://bankist-app-anup.netlify.app/
 
 #Enter with the dummy user with ID and password
-Id = aks
-password = 1111
+#Id = aks
+#password = 1111
